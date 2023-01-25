@@ -1,0 +1,8 @@
+{
+    "index.title": "i18n Sample Application indexPage",
+    "index.body": "This is main page",
+    "index.link-to-sub": "Go to sub page!",
+    "sub.title": "i18n Sample Application subPage",
+    "sub.body": "This is sub page",
+    "sub.link-to-index": "Go to index page!"
+}
