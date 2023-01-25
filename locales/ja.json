@@ -1,8 +1,8 @@
 {
-    "index.title": "i18nサンプルアプリケーションのメインページ",
-    "index.body": "メインページです。",
-    "index.link-to-sub": "サブページに行く！",
-    "sub.title": "i18nサンプルアプリケーションのサブページ",
-    "sub.body": "サブページ",
-    "sub.link-to-index": "インデックスページへ"
+	"index.title": "i18nサンプルアプリケーションのメインページ",
+	"index.body": "メインページです。",
+	"index.link-to-sub": "サブページに行く！",
+	"sub.title": "i18nサンプルアプ  リケーションのサブページ",
+	"sub.body": "サブページ",
+	"sub.link-to-index": "インデックスページへ"
 }

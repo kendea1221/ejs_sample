@@ -15,6 +15,7 @@ i18n.configure({
     locales: ['ja' , 'en'],
     directory: __dirname + '/locales'
 })
+app.use( i18n.init );
 
 //. localhost
 app.get('/', function ( req , res ){
