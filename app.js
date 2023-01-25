@@ -17,13 +17,13 @@ i18n.configure({
 })
 
 //. localhost
-app.get( '/' , function ( req , res ){
-    res.render( ' index ' ,  {} );
+app.get('/', function ( req , res ){
+    res.render('index',  {} );
 });
 
 //.localhost/sub
-app.get( '/sub' , function ( req , res ){
-    res.render(  'sub ' , {} );
+app.get('/sub', function ( req , res ){
+    res.render('sub', {} );
 });
 
 //. port
